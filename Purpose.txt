@@ -1,0 +1,4 @@
+Using Smart Git
+Authored by Viet Q. Nguyen Thursday, November, 11, 2017
+Upon initaliztion of SMart Git select clone
+What yo want to do is clone the repo that youi have already created on Git.
