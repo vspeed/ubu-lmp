@@ -1,2 +1,2 @@
 create a new user with adduser
-adduser is a program that will create the new user and create the home directory the dfeault shell will be bash
+adduser is a program that will create the new user and create the home directory the default shell will be bash
