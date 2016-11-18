@@ -1,0 +1,11 @@
+Setting Up Raspberry Pi 2 with Ubutntu Server
+Authored by Viet Q. Nguyen Thursday, November 17, 2016
+After downloading and extracting the image file "img.xz" use "rufus" to write image to sd card.
+Boot up RPi should take 45 before graphics kick in.
+after 2 minutes user should ahve the ability to log in.
+default user naem and password is "ubuntu"
+after loggin in you are forced to chage the password. enter the original password again"ubuntu" then enter the new password it must be done twice to confirm accuracy.
+afte this is done ssh access is available. just run ifconfig to see ip address.
+change the hostname so that errors do not occur
+vi /etc/hostname the file shoul dcontain whatever name you want to be
+next vi /etc/hosts add localhost.localdomain and localhostadd aditional line 127.0.0.1 then tab over and input perfered hostname. Changes take effect after reboot
