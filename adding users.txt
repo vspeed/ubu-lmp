@@ -1,2 +1,3 @@
-create a new user with adduser
+create a new user with useradd
 adduser is a program that will create the new user and create the home directory the default shell will be bash
+usermod -aG sudo username

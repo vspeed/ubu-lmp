@@ -1,0 +1,6 @@
+Installing latest LAMP Server
+https://help.ubuntu.com/community/ApacheMySQLPHP
+sudo apt-get update
+sudo apt-get install lamp-server^
+this takes about 2 minutes on a slow connection
+give it a password be insecure and use password esy to remember
