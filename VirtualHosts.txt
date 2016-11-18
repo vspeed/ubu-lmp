@@ -1,0 +1,2 @@
+https://help.ubuntu.com/community/ApacheMySQLPHP
+Setting up Apache virtual hosts. This will allow multiple websites to be hosted on 1 single server with 1 IP address pretty neat stuff.
